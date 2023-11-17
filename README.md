@@ -1,6 +1,9 @@
 # newsapp
 
-A new Flutter project.
+Output:
+https://github.com/Hab-is/Newsapp/assets/99267893/8abbd81f-cbb6-4508-8bea-522733096923
+
+
 
 ## Getting Started
 
